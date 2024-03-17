@@ -1,0 +1,12 @@
+/* Layout styles */
+.header {
+    padding: 20px;
+  }
+  
+  .footer {
+    background-color: #333; /* Dark background color */
+    color: #fff; /* Light text color */
+    padding: 20px;
+    text-align: center;
+  }
+  
